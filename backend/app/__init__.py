@@ -1,1 +1,0 @@
-# SnapCal+ Backend Application Package 
